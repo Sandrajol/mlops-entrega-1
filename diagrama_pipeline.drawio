@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="m2Wvy8maMiUPC0fjpWTG">
-    <mxGraphModel dx="1211" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="nPWllsKdg7PumCrSjf_y-63" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Cumple los criterios de aceptación?" vertex="1">
           <mxGeometry height="80" width="140" x="460" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="nPWllsKdg7PumCrSjf_y-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="2. Desarrollo el modelo" vertex="1">
+        <mxCell id="nPWllsKdg7PumCrSjf_y-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="2. Desarrollo del modelo" vertex="1">
           <mxGeometry height="30" width="180" x="440" y="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nPWllsKdg7PumCrSjf_y-88" edge="1" parent="1" source="nPWllsKdg7PumCrSjf_y-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nPWllsKdg7PumCrSjf_y-74">
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nPWllsKdg7PumCrSjf_y-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFCC;" value="Revisar ofertas y nuevos datos" vertex="1">
+        <mxCell id="nPWllsKdg7PumCrSjf_y-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFCC;" value="Revisar alertas y nuevos datos" vertex="1">
           <mxGeometry height="40" width="170" x="445" y="670" as="geometry" />
         </mxCell>
         <mxCell id="nPWllsKdg7PumCrSjf_y-96" edge="1" parent="1" source="nPWllsKdg7PumCrSjf_y-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nPWllsKdg7PumCrSjf_y-75">
@@ -134,7 +134,7 @@
         <mxCell id="nPWllsKdg7PumCrSjf_y-105" edge="1" parent="1" source="nPWllsKdg7PumCrSjf_y-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nPWllsKdg7PumCrSjf_y-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nPWllsKdg7PumCrSjf_y-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFCC;" value="Definir objetivos, alcance y rstricciones" vertex="1">
+        <mxCell id="nPWllsKdg7PumCrSjf_y-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFCC;" value="Definir objetivos, alcance y restricciones" vertex="1">
           <mxGeometry height="40" width="170" x="125" y="102.5" as="geometry" />
         </mxCell>
         <mxCell id="nPWllsKdg7PumCrSjf_y-106" edge="1" parent="1" source="nPWllsKdg7PumCrSjf_y-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="nPWllsKdg7PumCrSjf_y-101">

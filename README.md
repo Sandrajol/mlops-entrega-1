@@ -11,7 +11,7 @@ Tener Docker en ejecución. En Windows, abrimos Docker Desktop y verificamos con
 
 Abrimos una terminal en la carpeta que contiene el `Dockerfile` y ejecutamos en PowerShell:
 
-**docker build -t clasificador-mlops:1.0**
+**docker build -t clasificador-mlops:1.0 .**
 
 Ahi se indica que Docker debe usar la carpeta actual para construir la imagen.
 
