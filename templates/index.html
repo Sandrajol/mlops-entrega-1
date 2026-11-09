@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Clasificador simulado</title>
+</head>
+<body>
+    <h1>Clasificador simulado de síntomas</h1>
+    <p>Demostración académica con datos ficticios.</p>
+
+    <form method="post">
+        <p>
+            <label for="cantidad_sintomas">Cantidad de síntomas</label>
+            <input id="cantidad_sintomas" name="cantidad_sintomas"
+                   type="number" min="0" step="1" required>
+        </p>
+        <p>
+            <label for="dias_sintomas">Días con síntomas</label>
+            <input id="dias_sintomas" name="dias_sintomas"
+                   type="number" min="0" step="1" required>
+        </p>
+        <p>
+            <label for="intensidad">Intensidad (0 a 10)</label>
+            <input id="intensidad" name="intensidad"
+                   type="number" min="0" max="10" step="1" required>
+        </p>
+        <button type="submit">Clasificar</button>
+    </form>
+
+    {% if resultado %}
+        <p><strong>Resultado simulado:</strong> {{ resultado }}</p>
+    {% endif %}
+
+    {% if error %}
+        <p role="alert">{{ error }}</p>
+    {% endif %}
+</body>
+</html>
